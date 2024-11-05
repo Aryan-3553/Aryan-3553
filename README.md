@@ -6,8 +6,8 @@ Turning caffeine into code, apps into experiences, and data into intelligence â˜
 
 <br>
 
-<p align="right">
-  <p align="right">
+<p align="left">
+  <p align="left">
     <a href="https://www.linkedin.com/in/aryan-patel-036688202/" alt="Linkedin"><img src="readme/linkedin-fill.svg"></a>
     <a href="mailto:a68patel@uwaterloo.ca" alt="Contact me"><img src="readme/mail-fill.svg"></a>
   </p>
