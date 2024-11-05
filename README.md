@@ -7,8 +7,8 @@ I am a problem-solver enthusiast. I love coding and finance.
 <br>
 <p align="center">
   <p align="center">
-    <a href="https://www.linkedin.com/in/param-shah-b01596192/" alt="Linkedin"><img src="readme/linkedin-fill.svg"></a>
-    <a href="mailto:p7shah@uwaterloo.ca" alt="Contact me"><img src="readme/mail-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/aryan-patel-036688202/" alt="Linkedin"><img src="readme/linkedin-fill.svg"></a>
+    <a href="mailto:a68patel@uwaterloo.ca" alt="Contact me"><img src="readme/mail-fill.svg"></a>
   </p>
 
 ![snake gif](https://raw.githubusercontent.com/tanpatil/tanpatil/output/github-contribution-grid-snake.svg)
