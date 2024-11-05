@@ -2,8 +2,6 @@
 
 <a href="#"><img width="20%" height="auto" align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" /></a>
 
-I am a problem-solver enthusiast. I love coding and finance. 
-
 <br>
 <p align="center">
   <p align="center">
@@ -15,11 +13,8 @@ I am a problem-solver enthusiast. I love coding and finance.
 
 
 ---
-**I am funny! :)**
 
-  Why do programmers prefer dark mode?
-  <br>
-  Because light attracts bugs!
+When I'm not busy squashing bugs in my code, I’m either creating new projects or sharing a laugh over programming jokes. (Fun fact: I think dark mode is essential because, well, light attracts bugs! 😅)
 
 ---
 
