@@ -2,6 +2,8 @@
 
 <a href="#"><img width="20%" height="auto" align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" /></a>
 
+Turning caffeine into code, apps into experiences, and data into intelligence ☕💡📱📊🤖
+
 <br>
 <p align="center">
   <p align="center">
