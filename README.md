@@ -17,7 +17,7 @@ Turning caffeine into code, apps into experiences, and data into intelligence �
 
 ---
 
-When I'm not busy squashing bugs in my code, I’m either creating new projects or sharing a laugh over programming jokes. (Fun fact: I think dark mode is essential because, well, light attracts bugs! 😅)
+When I'm not busy squashing bugs in my code, I’m either creating new projects or sharing a laugh over programming jokes. (Fun fact: I prefer using dark mode because, well, light attracts bugs! 😅)
 
 ---
 
